@@ -5,7 +5,7 @@ I'm a Web Design and Development student passionate about creating beautiful, us
 - 🎨 Responsive Design & UX
 - ⚡ Creating engaging, interactive web experiences
 
-📫 Contact me: [sukhman@kaursukhman.ca](mailto:info@designsbysukhman.com)  
+📫 Contact me: [info@designsbysukhman.com](mailto:info@designsbysukhman.com)  
 🌐 Portfolio: [designsbysukhman.ca](https://designsbysukhman.com)
 
 ## 🌟 Skills
