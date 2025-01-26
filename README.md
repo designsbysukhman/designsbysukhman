@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Sukhman Kaur!
 
-<!--
-**designsbysukhman/designsbysukhman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Design and Development student passionate about creating beautiful, user-friendly websites. I specialize in front-end development and have skills in:
+- 🌐 HTML, CSS, JavaScript
+- 🎨 Responsive Design & UX
+- ⚡ Creating engaging, interactive web experiences
 
-Here are some ideas to get you started:
+📫 Contact me: [sukhman@kaursukhman.ca](mailto:info@designsbysukhman.com)  
+🌐 Portfolio: [designsbysukhman.ca](https://designsbysukhman.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Skills
+- Front-End Development
+- UI/UX Design
+- WordPress Customization
+
+## 🚀 Current Projects
+- Building my portfolio at [designsbysukhman.ca](https://designsbysukhman.com)
+- Exploring modern JavaScript frameworks
+
+Let's connect and collaborate on exciting projects!
